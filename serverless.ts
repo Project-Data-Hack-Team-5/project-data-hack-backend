@@ -1,6 +1,6 @@
 import type { AWS } from '@serverless/typescript';
 
-import schema from "@functions/hello/schema";
+import schema from '@functions/hello/schema';
 
 const serverlessConfiguration: AWS = {
   service: 'project-data-hack-team-5',
@@ -12,12 +12,12 @@ const serverlessConfiguration: AWS = {
     region: 'eu-west-1',
     apiGateway: {
       minimumCompressionSize: 1024,
-      shouldStartNameWithService: true,
+      shouldStartNameWithService: true
     },
     environment: {
       AWS_NODEJS_CONNECTION_REUSE_ENABLED: '1',
-      NODE_OPTIONS: '--enable-source-maps --stack-trace-limit=1000',
-    },
+      NODE_OPTIONS: '--enable-source-maps --stack-trace-limit=1000'
+    }
   },
   // import the function via paths
   functions: {
@@ -30,14 +30,14 @@ const serverlessConfiguration: AWS = {
             path: 'hello',
             request: {
               schemas: {
-                'application/json': schema,
-              },
+                'application/json': schema
+              }
             },
             cors: true
-          },
-        },
-      ],
-    },
+          }
+        }
+      ]
+    }
   },
   package: { individually: true },
   custom: {
@@ -49,9 +49,9 @@ const serverlessConfiguration: AWS = {
       target: 'node14',
       define: { 'require.resolve': undefined },
       platform: 'node',
-      concurrency: 10,
-    },
-  },
+      concurrency: 10
+    }
+  }
 };
 
 module.exports = serverlessConfiguration;

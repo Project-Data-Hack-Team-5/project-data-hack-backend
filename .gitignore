@@ -124,5 +124,5 @@ dist
 
 # other
 .DS_Store
-
+.esbuild
 
