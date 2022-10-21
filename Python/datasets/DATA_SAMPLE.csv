@@ -1,0 +1,74 @@
+﻿Age,Gender,City,Position,Years Of Experience,Additional Compensation,Current Salary,Company Type,Industry,Skills,Company,Race
+,,,Product Designer,7,0,165000,,,,Facebook,White
+,,,Hardware Engineer,14,0,163000,,,,Intel,Asian
+,,,Software Engineer,2,0,96000,,,,Comcast,Black
+,,,Software Engineering Manager,6,0,170000,,,,Latch,Asian
+,,,Software Engineer,1,0,110000,,,,Intuit,Asian
+,,,Software Engineer,5,0,210000,,,,Google,Asian
+,,,Software Engineer,8,0,170000,,,,Spotify,Asian
+,,,Data Scientist,2,0,71000,,,,IBM,Black
+,,,Software Engineer,5,0,126000,,,,Microsoft,White
+,,,Software Engineer,6,0,177000,,,,Google,Asian
+,,,Software Engineer,4,0,164000,,,,Microsoft,Asian
+,,,Software Engineer,5,0,165000,,,,Blend,White
+,,,Software Engineer,15,0,160000,,,,Amazon,Asian
+,,,Software Engineer,3,0,103000,,,,Chevron,Hispanic
+,,,Software Engineering Manager,19,0,160000,,,,Amazon,Asian
+,,,Software Engineer,9,0,78000,,,,Shopify,Asian
+,,,Software Engineer,1,0,130000,,,,Apple,Asian
+,,,Software Engineer,5,0,140000,,,,Square,Black
+,,,Software Engineer,4,0,150000,,,,Amazon,Hispanic
+,,,Software Engineer,8,0,45000,,,,Salesforce,Asian
+,,,Software Engineer,4,0,78000,,,,Adyen,White
+,,,Software Engineer,0,0,112000,,,,Amazon,Asian
+,,,Software Engineer,2,0,167000,,,,Facebook,White
+,,,Software Engineer,6,0,155000,,,,PayPal,Asian
+,,,Software Engineer,10,0,187000,,,,Twitter,White
+,,,Software Engineer,1,0,110000,,,,Microsoft,Hispanic
+,,,Software Engineer,10,0,153000,,,,Microsoft,Asian
+,,,Hardware Engineer,6,0,130000,,,,Intel,Asian
+,,,Software Engineer,9,0,111000,,,,Charles Schwab,Hispanic
+,,,Software Engineer,12,0,215000,,,,Microsoft,Asian
+,,,Software Engineer,15,0,160000,,,,Tanium,White
+,,,Software Engineer,2,0,27000,,,,Google,Asian
+,,,Software Engineer,10,0,215000,,,,ByteDance,Asian
+,,,Software Engineer,10,0,180000,,,,Ticketmaster,Asian
+,,,Software Engineer,6,0,160000,,,,Facebook,Asian
+,,,Software Engineer,15,0,210000,,,,GoDaddy,White
+,,,Software Engineer,3,0,36000,,,,Amazon,Asian
+,,,Software Engineer,7,0,53000,,,,Salesforce,Asian
+,,,Software Engineer,2,0,27000,,,,BrowserStack,Asian
+,,,Software Engineer,10,0,170000,,,,Smartsheet,White
+,,,Software Engineer,19,0,250000,,,,Citi,Asian
+,,,Product Designer,7,0,126000,,,,Johnson and Johnson,Asian
+,,,Management Consultant,14,0,246000,,,,KPMG,Asian
+,,,Product Manager,10,0,220000,,,,Apple,Hispanic
+,,,Software Engineer,2,0,135000,,,,Amazon,Asian
+,,,Product Manager,18,0,150000,,,,Amazon,Asian
+,,,Solution Architect,17,0,74000,,,,EY,Asian
+,,,Software Engineer,10,0,160000,,,,Amazon,White
+,,,Software Engineer,6,0,120000,,,,Tiaa,White
+,,,Software Engineer,2,0,165000,,,,Facebook,Asian
+33,Male,Berlin,Fullstack Developer,13,0,64000,Startup,Tourism,PHP,,
+29,Male,Berlin,Backend Developer,3,0,55000,Product,Scientific Activities,Python,,
+,Male,Berlin,Mobile Developer,4,0,70000,Startup,,Kotlin,,
+30,Male,Berlin,Backend Developer,6,0,63000,Product,Transport,PHP,,
+32,Male,Berlin,Embedded Developer,10,0,66000,Product,Automotive,C/C++,,
+34,Male,Berlin,Backend Developer,12,0,85000,Startup,,Java,,
+38,Male,Berlin,Manager,15,0,81000,Product,Automotive,Not Relevant,,
+,Male,Berlin,Mobile Developer,8,0,66000,Product,Coaching ,Swift,,
+27,Male,Berlin,Fullstack Developer,7,0,63000,Startup,Finance / Insurance,Javascript / Typescript,,
+31,Male,Berlin,Backend Developer,8,0,65000,Product,Gaming,Go,,
+23,Male,Berlin,DevOps,6,0,83000,Startup,Manufacture,AWS,,
+27,Male,Berlin,"Designer (UI, UX)",9,0,66000,Product,Manufacture,Not Relevant,,
+33,Male,Berlin,Frontend Developer,10,0,70000,Startup,Customer Support,Javascript / Typescript,,
+,Male,Berlin,Backend Developer,7,0,80000,Startup,Transport,Java,,
+34,Male,Berlin,Backend Developer,10,0,87000,Product,Advertising,Java,,
+24,Male,Berlin,Machine Learning Engineer,2,0,70000,Startup,Health,C/C++,,
+32,Male,Frankfurt,DevOps,12,0,160000,,,Not Relevant,,
+27,Male,Berlin,Data Engineer,5,0,75000,Product,Fashion,Python,,
+32,Male,Berlin,DevOps,13,0,60000,Product,IoT,Not Relevant,,
+32,Male,Berlin,DevOps,7,0,72000,Product,Catering,AWS,,
+38,Male,Berlin,Backend Developer,16,0,80000,Product,Finance / Insurance,Ruby,,
+31,Male,Berlin,QA,9,0,67000,Product,Automotive,Java,,
+32,Male,Berlin,Software Architect,13,0,78600,Product,Marketing,Java,,
