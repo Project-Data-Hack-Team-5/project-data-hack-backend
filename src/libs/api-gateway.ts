@@ -11,6 +11,6 @@ export const formatJSONResponse = (response: Record<string, unknown>) => {
       'Access-Control-Allow-Credentials': true
     },
     statusCode: 200,
-    body: JSON.stringify(response)
+    body: JSON.stringify(response, null, 2)
   };
 };

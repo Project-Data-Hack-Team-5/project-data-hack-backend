@@ -22,7 +22,7 @@ const serverlessConfiguration: AWS = {
   // import the function via paths
   functions: {
     hello: {
-      handler: './src/functions/hello/handler.main',
+      handler: './src/functions/hello/handler.hello',
       events: [
         {
           http: {
@@ -33,6 +33,18 @@ const serverlessConfiguration: AWS = {
                 'application/json': schema
               }
             },
+            cors: true
+          }
+        }
+      ]
+    },
+    data: {
+      handler: './src/functions/data/handler.main',
+      events: [
+        {
+          http: {
+            method: 'get',
+            path: 'data',
             cors: true
           }
         }
